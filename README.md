@@ -1,2 +1,2 @@
-# statistics
+# Statistics
 Statistics Introduction for beginners
